@@ -1,0 +1,8 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Data
+/m2pMaster
+/to_be_prepared
+/archive
+/data_figure.csv
