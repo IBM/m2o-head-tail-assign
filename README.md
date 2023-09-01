@@ -103,6 +103,6 @@ m2pCalc
 ## Authorship
 
 
-* Author: **Brenda Ferrari** ([bferrari](https://github.ibm.com/bferrari))
-* Co-author: **Ronaldo Giro** ([rgiro](https://github.ibm.com/rgiro))
-* Co-author: **Mathias Steiner** ([mathiast](https://github.ibm.com/mathiast))
+* Author: **Brenda Ferrari** ([bferrari])
+* Co-author: **Ronaldo Giro** ([rgiro](https://github.com/rgiro))
+* Co-author: **Mathias Steiner** ([mathiast])
